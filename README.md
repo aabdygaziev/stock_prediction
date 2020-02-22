@@ -1,7 +1,7 @@
 # CRM stock price prediction
 ### Predicting Salesforce Inc. share price using time series analysis
 
-* Salesfoce one of the most successful companies in the world. It is the biggest CRM (customer relationship manager) platform in the world. The company generated $13.28 billion in 2019
+* Salesfoce one of the most successful companies in the world. It is the biggest CRM (customer relationship management) platform in the world. The company generated $13.28 billion in 2019
 
 * Market Cap: $168 billion, PE ratio - 221, ROA - 1.08%, ROE - 3%
 
