@@ -15,7 +15,10 @@
 - Partial-Autocorrelation: It is a partial relationship between the bariable and its lagged value.
 
 - ROA - return on asset; ROE - return on equity;
+
 - Seasonality - in time series it is a variablity that appears at specific time intervals in less than a year: for instance weekly, monthly, or quarterly.
 
 - Seasonal decomposition - it's a statistical technique that deconstructs time series data into trend, noise, and seasonal data
 - Stationary check - a stationary time series is one whose statistical properties such as mean, variance, autocorrelation, etc. are all constant over time.
+
+
