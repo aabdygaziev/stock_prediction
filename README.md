@@ -15,4 +15,5 @@
 - Partial-Autocorrelation: It is a partial relationship between the bariable and its lagged value.
 
 - ROA - return on asset; ROE - return on equity;
+- Seasonality - in time series it is a variablity that appears at specific time intervals in less than a year: for instance weekly, monthly, or quarterly.
 
